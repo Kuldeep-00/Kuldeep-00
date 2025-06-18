@@ -38,7 +38,7 @@
 
 <h3 align="left">🌐 Coding Platforms</h3> 
 <p align="left">
-<a href="https://www.geeksforgeeks.org/user/saipranabpuyu1/" target="blank">
+<a href="https://www.geeksforgeeks.org/user/kuldeepxpxg/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kalyanreddy434" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/Sai_Pranab/" target="blank">
@@ -54,7 +54,7 @@
  <a href="https://www.instagram.com/kuldeep_pradhan01/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
  </a>
-<a href="mailto:saipranabpatra1234@gmail.com" target="_blank">
+<a href="mailto:kuldeepkp721@gmail.com@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
 </a>
 <!-- <a href="https://web.facebook.com/mahel.chandupa" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  -->
