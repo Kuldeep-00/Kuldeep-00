@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Pradhan</h1>
 <h4 align="center">A passionate Full Stack Developer from India</h4>
 
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
+![MasterHead]([https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg](https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg))
 <h4 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer;Always+learning+new+things"></a>
 </h4>
