@@ -60,6 +60,9 @@
 <!-- <a href="https://web.facebook.com/mahel.chandupa" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  -->
 <!-- <a href="https://mahel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=flat-square&logo=iconify&logoColor=white" alt="Portfolio"></a> -->
 </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!--
