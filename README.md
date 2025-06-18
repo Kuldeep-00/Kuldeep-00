@@ -48,7 +48,7 @@
 
 <div align="center">
 <i>Follow me around the web:</i><br>
-<a href="https://www.linkedin.com/in/sai-pranab-patra-b752ba21b/" target="_blank">
+<a href="https://www.linkedin.com/in/kuldeep-pradhan-b0b472248/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
  <a href="https://www.instagram.com/kuldeep_pradhan01/" target="_blank">
