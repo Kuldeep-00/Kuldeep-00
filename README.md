@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/sai-pranab-patra-b752ba21b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
- <a href="https://www.instagram.com/sai_pranab_patra/" target="_blank">
+ <a href="https://www.instagram.com/kuldeep_pradhan01/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
  </a>
 <a href="mailto:saipranabpatra1234@gmail.com" target="_blank">
@@ -60,8 +60,6 @@
 <!-- <a href="https://web.facebook.com/mahel.chandupa" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  -->
 <!-- <a href="https://mahel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=flat-square&logo=iconify&logoColor=white" alt="Portfolio"></a> -->
 </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
